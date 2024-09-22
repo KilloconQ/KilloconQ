@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hello! I'm Fernando
 
-<!--
-**KilloconQ/KilloconQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Fullstack Developer** specialized in building robust enterprise software solutions. With solid experience in **Angular** and **Node.js**, I enjoy creating high-quality, scalable applications. I’m proficient in working with both **SQL** and **NoSQL** databases, ensuring data management is always smooth and efficient.
 
-Here are some ideas to get you started:
+### 🚀 What I Do:
+- **Frontend:** Angular, HTML, CSS, JavaScript/TypeScript
+- **Backend:** Node.js, Express, NestJS
+- **Databases:** SQL (PostgreSQL, MySQL), NoSQL (MongoDB)
+- **Tools:** Git, Docker, CI/CD pipelines
+- **Editor of choice:** Vim enthusiast 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Current Projects:
+- Building an ERP system for a furniture factory
+- Developing custom SaaS solutions
+- Experimenting with **Vim** plugins to boost productivity
+
+### 🤝 Let's collaborate!
+I’m always open to new projects, especially those focused on enterprise software, and I thrive in collaborative environments. Feel free to reach out if you want to build something great together!
+
+---
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)](https://github.com/yourusername)
+
