@@ -19,5 +19,5 @@ I’m always open to new projects, especially those focused on enterprise softwa
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)](https://github.com/yourusername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=killoconq&show_icons=true)](https://github.com/killoconq)
 
