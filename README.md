@@ -16,8 +16,3 @@ I'm a **Fullstack Developer** specialized in building robust enterprise software
 
 ### 🤝 Let's collaborate!
 I’m always open to new projects, especially those focused on enterprise software, and I thrive in collaborative environments. Feel free to reach out if you want to build something great together!
-
----
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=killoconq&show_icons=true)](https://github.com/killoconq)
-
