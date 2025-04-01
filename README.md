@@ -7,7 +7,7 @@ I'm a **Fullstack Developer** specialized in building robust enterprise software
 - **Backend:** Node.js, Express, NestJS
 - **Databases:** SQL (PostgreSQL, MySQL), NoSQL (MongoDB)
 - **Tools:** Git, Docker, CI/CD pipelines
-- **Editor of choice:** (Neo)Vim obviously <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Neovim-mark.svg" width="20"/>
+- **Editor of choice:** (Neo)Vim obviously ![Neovim](https://upload.wikimedia.org/wikipedia/commons/4/4c/Neovim-mark.svg)
 
 ### 🛠️ Current Projects:
 - Building an ERP system for a furniture factory
